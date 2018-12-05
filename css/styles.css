@@ -1,13 +1,14 @@
 body{
     position: absolute;
-    background-image:url(https://images.pexels.com/photos/240514/pexels-photo-240514.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-image:url(https://images.pexels.com/photos/462020/pexels-photo-462020.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
     background-size:cover;
 font-weight:bolder;
 color:red;}
 nav>ul{text-align:right;}
+nav>ul>li{padding:20px;}
 nav>ul>li>a{color:cyan;}  
 nav>ul>li{display:inline-block;}
-nav>ul>li>a:hover {
+nav>ul>li>a:hover {padding:30px;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), insert 0 0 1px rgba(255, 255, 255, 0.6);
         background: rgba(221, 109, 35, 0.678);
         color: hotpink;
