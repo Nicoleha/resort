@@ -2,8 +2,8 @@ body{
     position: absolute;
     background-image:url(https://images.pexels.com/photos/240514/pexels-photo-240514.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
     background-size:cover;
-font-weight:bolder;
-color:red;}
+font-weight:700;
+color:rgb(216, 146, 195);}
 nav>ul{text-align:right;}
 nav>ul>li>a{color:cyan;}  
 nav>ul>li{display:inline-block;}
